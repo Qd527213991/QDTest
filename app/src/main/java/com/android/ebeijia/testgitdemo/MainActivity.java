@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
         test();
 
+        String s="LaLala";
+
+
     }
 
     public void test()
